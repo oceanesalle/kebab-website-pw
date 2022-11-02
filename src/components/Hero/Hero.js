@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import Navbar from '../Navbar';
-import Sidebar from '../SideBar';
 import { 
   HeroContainer, 
   HeroContent, 
@@ -19,7 +18,6 @@ const Hero = () => {
   return (
     <HeroContainer>
       <Navbar toggle={toggle}/>
-      <Sidebar isOpen={isOpen} toggle={toggle}/>
       <HeroContent>
         <HeroItems>
           <HeroH1>venenatis tellus in metus</HeroH1>

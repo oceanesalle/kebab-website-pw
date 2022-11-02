@@ -4,7 +4,7 @@ import { Nav, NavLink, NavIcon, Bars } from './NavbarElements';
 const index = ({toggle}) => {
   return (
     <Nav>
-      <NavLink to='/'>Kebab</NavLink>
+      <NavLink to='/'>Eget gravida cum</NavLink>
       <NavIcon onClick={toggle}>
         <p>Menu</p>
         <Bars />

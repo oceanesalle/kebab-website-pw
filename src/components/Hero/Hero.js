@@ -20,9 +20,9 @@ const Hero = () => {
       <Navbar toggle={toggle}/>
       <HeroContent>
         <HeroItems>
-          <HeroH1>venenatis tellus in metus</HeroH1>
-          <HeroP>venenatis tellus in metus</HeroP>
-          <HeroBtn>venenatis tellus in metus</HeroBtn>
+          <HeroH1>Restauration rapide situé à Voiron</HeroH1>
+          <HeroP>The Voiron Grill</HeroP>
+          <HeroBtn>Accéder au menu</HeroBtn>
         </HeroItems>
       </HeroContent>
 

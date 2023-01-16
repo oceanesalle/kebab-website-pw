@@ -52,7 +52,7 @@ export const HeroBtn = styled.button `
  font-size: 1.4rem; 
  padding: 1rem 4rem; 
  border: none; 
- background: #e31837; 
+ background: #ffc500; 
  color: #fff; 
  transition: 0.2s ease-out;
 
